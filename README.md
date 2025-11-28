@@ -1,2 +1,1 @@
-# My_Project-
-Currency Converter App 💱 A simple Python app that converts between different currencies. Built for learning and practicing programming logic and user interaction.
+I created a simple Python project where I built the classic Blackjack (21) game. The program includes card dealing, scoring logic, user choices, and dealer behavior. This is my final project for Level 1 in Python, and it helped me practice conditionals, loops, and functions.
